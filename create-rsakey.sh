@@ -1,1 +1,1 @@
-openssl genrsa -out ca-private.key 4096
+openssl genrsa -out private/ca.key 4096
